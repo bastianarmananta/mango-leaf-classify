@@ -4,7 +4,7 @@ This project focuses on developing an image classification model to distinguish 
 
 To ensure reliable results, we employed the k-fold cross-validation technique. This technique helped us evaluate the model's effectiveness by dividing the dataset into k subsets and training and testing the model on different combinations of these subsets.
 
-By successfully implementing the SVM algorithm for mango leaf classification, this project demonstrates our expertise in machine learning and showcases our ability to utilize SVM algorithms for image classification tasks.
+By successfully implementing the SVM algorithm for mango leaf classification, this project demonstrates my expertise in machine learning and showcasing my ability to utilize SVM algorithms for image classification tasks.
 
 ## Installation
 
