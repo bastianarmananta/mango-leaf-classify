@@ -14,7 +14,7 @@ st.set_page_config(
     page_icon=image_icon)
 
 # Dropbox access token
-DROPBOX_TOKEN = 'sl.BgtSZ92QldOKL3kY0NPOfbcNZ-gsNjesYFGU6kt0jg1vT9ODdTaUVHmTvB2oJDbu5uYWuAA46BJ82N20sq6l1Dmkm-DvEoNpaYOPCbl6DtibP3kNGsH-GI0eBHs6UBxH30srYUg'
+DROPBOX_TOKEN = 'sl.BiM4Dugnr__qafLlRw8-GK3fQhJVog2EMeJOG-5VPtaSQ38_leiz6yaYlwAJ2A78_uIXT9sGcfoezBPewSaOUF90qY6tguNoQ4mibnFOfKiAWmD2ktmtsSq-PzmtyUrqgAp2AY0'
 
 # Dropbox folder path and model file name
 DROPBOX_FOLDER_PATH = '/image-classify-yuniar'
